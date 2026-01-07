@@ -1,6 +1,6 @@
 # Baby ANDI — Infant Training Mannequin (iDP)
 
-**Quick summary:** A higher-fidelity infant training mannequin prototype designed to improve caregiver practice using real-time feedback.
+**Summary:** A higher-fidelity infant training mannequin prototype designed to improve caregiver practice using real-time feedback.
 
 ---
 
@@ -22,7 +22,6 @@ A training mannequin prototype that recreates key anatomy and provides **visual/
 - Prepared documentation and presentations for design reviews
 
 ## Media
-Add images here once uploaded:
 - ![Flowchart of Feedback System](Flowchart of Feedback System.jpg)
 - ![Final Prototype](Final Prototype.jpg)
 
