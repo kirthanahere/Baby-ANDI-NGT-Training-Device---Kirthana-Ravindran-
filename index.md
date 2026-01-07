@@ -22,8 +22,5 @@ A training mannequin prototype that recreates key anatomy and provides **visual/
 - Prepared documentation and presentations for design reviews
 
 ## Media
-- ![Flowchart of Feedback System](Flowchart of Feedback System.jpg)
-- ![Final Prototype](Final Prototype.jpg)
-
-
-
+![Flowchart of Feedback System](Flowchart of Feedback System.jpg)
+![Final Prototype](Final Prototype.jpg)
